@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes employee retention and attrition patterns using an HR dataset sourced from Kaggle. The primary objective is to understand how employee retention has changed over a recent six‑month period and to identify which employee segments (particularly departments) are most susceptible to turnover. The final deliverable is an interactive Power BI dashboard designed for exploratory analysis and executive-level reporting.
+This project analyzes employee retention and attrition patterns using an HR dataset sourced from Kaggle. The primary objective is to understand how employee retention has changed over a recent six‑month period and to identify which employee segments (particularly departments) are most susceptible to turnover. The final deliverable is an interactive Power BI dashboard designed for exploratory analysis and executive-level reporting. (See Preview Screenshot above)
 
 This project was intentionally scoped as a **descriptive analytics** exercise, emphasizing metric definition, data quality handling, and clear communication of insights rather than predictive modeling.
 
